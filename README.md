@@ -8,5 +8,7 @@ DALL-E AI image generation was used
 
 Icons are from Material icon pack (https://pictogrammers.com/library/mdi/icon/)
 
+[Live Demo](https://boomyville.github.io/dashboard)
+
 Template design:
 ![Example](https://github.com/boomyville/dashboard/blob/main/dashboard-project.png?raw=true)
